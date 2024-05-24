@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ankittidan123
+- 👋 Hi, I’m Ankit
 - 👀 I’m interested in web development full stack
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on 
